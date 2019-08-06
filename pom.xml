@@ -59,6 +59,12 @@
     <!-- 项目jar包依赖统一管理 -->
     <dependencies>
         <!-- 应用依赖信息声明 -->
+        <!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>27.0-jre</version>
+        </dependency>
 
         <!-- spring -->
         <dependency>
